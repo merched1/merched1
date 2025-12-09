@@ -1,6 +1,6 @@
 - 👋 Óla, meu nome lucas!
-- 👀 No momento estou interessado em aprender a programar e futuramente querer trabalhar em casa!
-- 🌱 Atualmente estou na faculdade, aprende liguagem de programaçõa
+- 👀 No momento estou interessado em aprender a programar e futuramente querer trabalhar na area
+- 🌱 Atualmente estou na faculdade de ADS, aprender liguagem de programaçõa
 - 💞️ Pretendo colabora front end, porem não quero para so nisso, quero ser Full stack
 - 📫 Entre em contato comigo pelo email: lucasperfer83@gmail.com
 - 😄 ele/dele
